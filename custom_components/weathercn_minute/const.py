@@ -1,0 +1,1 @@
+DOMAIN = "weathercn_minute"

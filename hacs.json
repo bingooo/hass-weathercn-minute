@@ -1,0 +1,5 @@
+{
+    "name": "临近天气预报",
+    "render_readme": true,
+    "homeassistant": "2023.1.0"
+}

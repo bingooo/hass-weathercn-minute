@@ -1,0 +1,21 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "已配置"
+        },
+        "error": {
+            "unknown": "未知错误"
+        },
+        "step": {
+            "user": {
+                "title": "临近天气预报",
+                "description": "未来两小时降雨预报",
+                "data": {
+                    "domain": "域名",
+                    "longitude": "经度",
+                    "latitude": "维度"
+                }
+            }
+        }
+    }
+}

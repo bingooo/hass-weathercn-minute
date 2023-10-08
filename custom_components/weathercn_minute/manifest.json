@@ -1,0 +1,11 @@
+{
+    "domain": "weathercn_minute",
+    "name": "临近天气预报",
+    "iot_class": "cloud_polling",
+    "version": "0.0.1",
+    "requirements": [],
+    "codeowners": ["@bingooo"],
+    "dependencies": [],
+    "documentation": "https://github.com/bingooo/hass-weathercn-minute",
+    "config_flow": true
+}
